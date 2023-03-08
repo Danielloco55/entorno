@@ -1,4 +1,4 @@
-import matplotlib.pyplot as pylot
+import matplotlib.pyplot as plt
 
 def generate_pie_chart():
     labels = ["a", "b", "c"]
